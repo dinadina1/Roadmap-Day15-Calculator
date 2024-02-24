@@ -1,6 +1,7 @@
 <h1>Calculator</h1>
 <p>This Calculator webpage used to perform Addition, Subtraction, Multiplication, Division and Modulas.</p>
 <p>In this calculator includes clear button and back button.</p>
+<p>It support only numeric values when enter a number via keyboard.</p>
 <p>I used HTML, CSS and Javascript for developing this page.</p>
 <p>I attached Webpage Screenshots in below:</p>
 
